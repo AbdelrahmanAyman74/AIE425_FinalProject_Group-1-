@@ -1,0 +1,28 @@
+{
+  "Text Features (TF-IDF)": {
+    "count": 4860,
+    "range": "0-4860",
+    "description": "TF-IDF vectors from course_name + description + skills"
+  },
+  "Categorical Features": {
+    "count": 168,
+    "range": "4860-5028",
+    "features": [
+      "level (Beginner/Intermediate/Advanced)",
+      "platform (Coursera/edX/Udacity/etc)",
+      "category (Business/Tech/Data Science/etc)"
+    ],
+    "description": "One-hot encoded categorical course attributes"
+  },
+  "Numerical Features": {
+    "count": "Variable (depends on dataset)",
+    "range": "5028-5032",
+    "features": [
+      "enrollment_count",
+      "rating",
+      "num_reviews",
+      "duration_hours"
+    ],
+    "description": "Scaled numerical course metadata (StandardScaler)"
+  }
+}
