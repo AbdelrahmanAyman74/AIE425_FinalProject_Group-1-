@@ -1,0 +1,4 @@
+method,pairs,MAE,RMSE,RMSE_improvement_vs_baseline,MAE_improvement_vs_baseline
+"Hybrid (SVD + popularity, alpha=0.7)",12324,0.5904,0.7723,0.0638,0.0305
+Baseline SVD (cold-start),12324,0.6209,0.8361,0.0,0.0
+Init from rated item factors,12324,1.346,1.6476,-0.8115,-0.7251

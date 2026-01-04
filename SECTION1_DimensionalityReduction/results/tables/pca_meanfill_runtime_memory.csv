@@ -1,0 +1,2 @@
+method,time_decomposition_sec,time_prediction_sec,memory_factors_MB
+PCA mean-fill (k=20),0.987,0.0541,1.77

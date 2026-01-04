@@ -1,0 +1,5 @@
+,pred_top5,pred_top5,pred_top10,pred_top10
+,mean,std,mean,std
+target_item,,,,
+1562,2.825,0.489,2.811,0.394
+2701,3.04,0.54,2.849,0.421

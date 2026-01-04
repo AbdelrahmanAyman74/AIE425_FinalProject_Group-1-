@@ -1,0 +1,3 @@
+strategy,MAE,RMSE
+Item mean,0.2414,0.2931
+User mean,0.4663,0.51

@@ -1,0 +1,2 @@
+method,time_decomposition_sec,time_prediction_sec,memory_factors_MB
+SVD (k=20),1.4052,0.0376,1.77

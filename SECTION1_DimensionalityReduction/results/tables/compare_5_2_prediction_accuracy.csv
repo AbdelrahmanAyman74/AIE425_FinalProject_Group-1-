@@ -1,0 +1,3 @@
+method,pairs_evaluated,MAE,RMSE,source_file
+SVD (k=20),6,0.2488,0.2827,../results/tables/eval_pairs_clean_k20.csv
+PCA mean-fill (k=20),6,0.2495,0.301,../results/tables/pca_meanfill_eval_pairs.csv
